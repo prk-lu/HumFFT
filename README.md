@@ -1,5 +1,5 @@
 # HumFFT
-A Python project that records audio and analyzes it using the Fast Fourier Transform (FFT).
+Small Python project that records audio and analyzes it using the Fast Fourier Transform (FFT) :).
 
 ## Features
 - Records audio
